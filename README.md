@@ -24,7 +24,7 @@ Eat-n-Split is a small React application designed to simplify the process of spl
 
 To run this project on your local machine, follow these steps:
 
-**Prerequisites**: Make sure you have the foillowing installed on your machine.
+**Prerequisites**: Make sure you have the following installed on your machine.
 
 - Node.js
 - npm
@@ -34,13 +34,13 @@ To run this project on your local machine, follow these steps:
 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/williamGarcia99x/eat-n-split.git
 ```
 
 2. Install Dependencies:
 
 ```
-cd your-project
+cd eat-n-split.git
 ```
 
 3. Install Dependencies:
