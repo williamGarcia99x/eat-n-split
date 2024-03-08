@@ -1,4 +1,6 @@
 # 🍴 eat-n-split 🍕
+![UI image](https://github.com/williamGarcia99x/eat-n-split/blob/main/UI.png?raw=true)
+
 
 ## Description
 
